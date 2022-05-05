@@ -6,8 +6,8 @@ Pembelajaran untuk pribadi yang kadang lupa, dan tidak jarang untuk keliru
 
 Tool's pendukung yang digunakan :
 
-- extension Quokka.js di VSCode
-- node.js
+1. extension Quokka.js di VSCode
+2. node.js
 
 ## MENJALANKAN QUOKKA.JS
 
