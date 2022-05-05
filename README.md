@@ -22,8 +22,7 @@ Tool's pendukung yang digunakan :
 
 Hal ini bertujuan agar memudahkan kita dalam mengetahui susunan apa saja yang ada di dalam file geoJSON
 
-'''
-repo ini di inisialisasikan dari video youtube :
-[https://www.youtube.com/watch?v=XYq9QpgAx8g&list=PLNqp92_EXZBJmAHWnJbVnXsl71hiHCrQh&index=2](klik_disini)
 
-'''
+> repo ini di inisialisasikan dari video youtube :
+ https://www.youtube.com/watch?v=XYq9QpgAx8g&list=PLNqp92_EXZBJmAHWnJbVnXsl71hiHCrQh&index=2
+
